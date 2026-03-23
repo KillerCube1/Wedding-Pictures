@@ -1,5 +1,3 @@
-const newIconUrl = "/images/favicon.png"
-
 function setup() {
   createCanvas(400, 400);
 }
